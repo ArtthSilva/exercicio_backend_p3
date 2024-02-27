@@ -14,4 +14,5 @@ public class ExercicioController {
     public String getName(){
         return "Arthur";
     }
+
 }
